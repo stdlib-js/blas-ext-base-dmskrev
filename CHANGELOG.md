@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-30)
+## Unreleased (2026-05-31)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`7719ac8`](https://github.com/stdlib-js/stdlib/commit/7719ac8d2f7584c23d167ec3a3b9a7ad1fbba992) - **docs:** fix missing function description _(by Athan Reines)_
 -   [`fedd3a9`](https://github.com/stdlib-js/stdlib/commit/fedd3a91e6c0e49542c61c2eccca14fe696d3910) - **feat:** add `blas/ext/base/dmskrev` [(#10917)](https://github.com/stdlib-js/stdlib/pull/10917) _(by Muhammad Haris)_
 
 </details>
@@ -34,8 +35,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Muhammad Haris
 
 </section>
